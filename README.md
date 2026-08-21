@@ -1,0 +1,1 @@
+# qorix-ai-trainings
